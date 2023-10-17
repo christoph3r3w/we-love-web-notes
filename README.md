@@ -4,6 +4,9 @@
 
 Een plek voor het bijhouden van aantekeningen van de We ♥ Web presentaties en workshops. 
 
+make a mini blog with everything you learned during the workshops,
+
+and from the event preformence now thats on the 2nd november
 
 ## Licentie
 
